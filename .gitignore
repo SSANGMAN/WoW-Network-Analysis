@@ -36,3 +36,7 @@ Thumbs.db
 # Dataset #
 #########
 dataset/
+
+# VsCode Work Space#
+####################
+*.code-workspace
