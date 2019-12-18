@@ -1,7 +1,7 @@
 # WoW-Network-Analysis
 Visualization plots that are not output can be viewed with the nbviewer.
 
-[Game_Network_Analysis_EDA](https://nbviewer.jupyter.org/gist/SSANGMAN/648ea4212b1e8a3159cee1e8c08c4d5b)
+[Game_Network_Analysis_EDA](https://nbviewer.jupyter.org/gist/SSANGMAN/04229ee8293935b0c6fe7c9d8b8563f7)
 
 Overview
 The World of Warcraft Avatar History Dataset is a collection of records that detail information about player characters in the game over time. It includes information about their character level, race, class, location, and social guild. The Kaggle version of this dataset includes only the information from 2008 (and the dataset in general only includes information from the 'Horde' faction of players in the game from a single game server).
